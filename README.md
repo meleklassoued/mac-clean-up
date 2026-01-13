@@ -43,5 +43,3 @@ Your applications, settings, and data remain untouched.
 
 - macOS
 - Optional: Homebrew (for brew cleanup feature)
-
----
