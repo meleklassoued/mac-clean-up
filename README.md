@@ -45,5 +45,3 @@ Your applications, settings, and data remain untouched.
 - Optional: Homebrew (for brew cleanup feature)
 
 ---
-
-Co-Authored-By: Warp <agent@warp.dev>
